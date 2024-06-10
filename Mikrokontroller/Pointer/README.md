@@ -1,4 +1,4 @@
-## Pointer pada C++ Arduino
+# Pointer pada C++ Arduino
 
 Pointer adalah variabel yang menyimpan alamat memori variabel lainnya. Dalam Arduino, penggunaan pointer dapat memungkinkan manipulasi memori yang lebih efisien dan fleksibel.
 
