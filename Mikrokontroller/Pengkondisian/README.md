@@ -14,6 +14,8 @@ if (kondisi) {
 }
 ```
 
+### Contoh
+
 ```cpp
 int sensorValue = analogRead(A0);
 
@@ -25,6 +27,8 @@ if (sensorValue > 500) {
 
 Pernyataan if-else digunakan untuk mengeksekusi salah satu dari dua blok kode, tergantung pada apakah kondisi yang diberikan bernilai true atau false.
 
+### Sintaks
+
 ```cpp
 if (kondisi) {
   // Blok kode yang akan dieksekusi jika kondisi bernilai true
@@ -32,6 +36,8 @@ if (kondisi) {
   // Blok kode yang akan dieksekusi jika kondisi bernilai false
 }
 ```
+
+### Contoh
 
 ```cpp
 int sensorValue = analogRead(A0);
@@ -47,6 +53,8 @@ if (sensorValue > 500) {
 
 Pernyataan if-else if-else digunakan untuk memeriksa beberapa kondisi. Blok kode pertama yang kondisinya bernilai true akan dieksekusi.
 
+### Sintaks
+
 ```cpp
 if (kondisi1) {
   // Blok kode yang akan dieksekusi jika kondisi1 bernilai true
@@ -56,6 +64,8 @@ if (kondisi1) {
   // Blok kode yang akan dieksekusi jika semua kondisi bernilai false
 }
 ```
+
+### Contoh
 
 ```cpp
 int sensorValue = analogRead(A0);
@@ -73,6 +83,8 @@ if (sensorValue > 700) {
 
 Pernyataan switch case digunakan untuk memilih salah satu dari beberapa blok kode yang akan dieksekusi berdasarkan nilai variabel.
 
+### Sintaks
+
 ```cpp
 switch (variabel) {
   case nilai1:
@@ -86,6 +98,8 @@ switch (variabel) {
     // Blok kode yang akan dieksekusi jika tidak ada kasus yang cocok
 }
 ```
+
+### Contoh
 
 ```cpp
 int mode = 2;
