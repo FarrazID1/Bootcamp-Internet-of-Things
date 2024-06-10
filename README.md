@@ -3,7 +3,7 @@
 ## Hari 1: Git dan GitHub
 Pada hari ini, kita akan mempelajari dasar-dasar Git dan GitHub serta bagaimana menggunakannya untuk pengembangan perangkat lunak.
 
-## Hari 2: Arus, Tegangan, dan Daya
+## Hari 2: Arus, Tegangan, dan Daya serta Rangkaian Elektronika
 Pada hari ini, kita akan mempelajari konsep dasar tentang arus, tegangan, dan daya dalam konteks elektronika.
 
 ## Hari 3: Mikrokontroller Arduino, Variabel, dan Komunikasi Serial
