@@ -52,7 +52,7 @@
 - Pelajari cara membuat aplikasi Android menggunakan Kodular dengan menggunakan blok kode.
 - Buat aplikasi sederhana dengan Kodular yang berinteraksi dengan mikrokontroler atau layanan IoT melalui MQTT.
 
-### Tugas Hari 14: Integrasi MQTT dengan Aplikasi dengan Kodular
+### Tugas Hari 14: Integrasi MQTT dan Aplikasi dengan Kodular
 - Pelajari cara mengintegrasikan protokol MQTT ke dalam aplikasi Android yang dibuat dengan Kodular.
 - Buat aplikasi Android yang dapat mengirim dan menerima pesan menggunakan protokol MQTT.
 
