@@ -135,10 +135,13 @@ Pada hari ini, kita akan menyelesaikan proyek akhir yang menggabungkan semua kon
 ## Hari 20: Final Proyek
 Hari ini adalah hari presentasi dan evaluasi proyek akhir.
 
+### Tugas
+- [Tugas](Task/Task.md)
+
 ### Quiz
 - [Quiz 1](Quiz/quiz1.md)
 - [Quiz 2](Quiz/quiz2.md)
 - [Quiz 3](Quiz/quiz3.md)
 
-### Quiz
+### Final Proyek
 - [Final Proyek](FinalProyek/FinalProyek.md)
