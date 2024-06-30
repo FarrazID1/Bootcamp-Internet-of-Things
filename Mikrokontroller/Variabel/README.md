@@ -19,9 +19,43 @@ int ledPin;        // Deklarasi variabel ledPin dengan tipe int
 int sensorValue = 0; // Deklarasi dan inisialisasi variabel sensorValue dengan nilai 0
 ```
 
-## Menggunakan Variabel dalam Program
+## Menggunakan Variabel dan Tipe Data dalam Program
 
 Mari kita lihat contoh program sederhana yang menggunakan variabel untuk mengontrol LED pada Arduino.
+
+```cpp
+void setup() {
+  // Inisialisasi komunikasi serial pada baud rate 9600
+  Serial.begin(9600);
+  
+  // Deklarasi variabel dengan berbagai tipe data
+  int integerVar = 42;          // Tipe data integer
+  float floatVar = 3.14;        // Tipe data float
+  char charVar = 'A';           // Tipe data char
+  bool boolVar = true;          // Tipe data boolean
+  String stringVar = "Hello!";  // Tipe data string
+
+  // Mengirim nilai variabel ke Serial Monitor
+  Serial.print("Nilai integer: ");
+  Serial.println(integerVar);
+  
+  Serial.print("Nilai float: ");
+  Serial.println(floatVar);
+  
+  Serial.print("Nilai char: ");
+  Serial.println(charVar);
+  
+  Serial.print("Nilai boolean: ");
+  Serial.println(boolVar);
+  
+  Serial.print("Nilai string: ");
+  Serial.println(stringVar);
+}
+
+void loop() {
+  // Tidak ada yang dilakukan dalam loop ini
+}
+```
 
 ```cpp
 // Deklarasi dan inisialisasi variabel
